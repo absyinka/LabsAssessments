@@ -19,6 +19,7 @@
 //     Console.WriteLine($"{item.Key} - {item.Value}");
 // }
 
+//Simple shopping cart instance
 SimpleShoppingCart simpleShoppingCart = new();
 
 simpleShoppingCart.ShoppingBasket();
